@@ -1,1 +1,1 @@
-[{"route":"/"},{"route":"/login"},{"route":"/faq"},{"route":"/support"}]
+[{"route":"/welcome"},{"route":"/application"},{"route":"/login"},{"route":"/faq"},{"route":"/support"},{"route":"/"}]
